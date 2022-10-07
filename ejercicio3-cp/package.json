@@ -1,0 +1,17 @@
+{
+  "name": "cp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "cp.js",
+  "scripts": {
+    "precp": "tsc",
+    "cp": "node ./cp.js"
+  },
+  "keywords": [],
+  "author": "menendezIsma",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^18.8.2"
+  }
+}
+
